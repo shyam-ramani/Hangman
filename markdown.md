@@ -426,8 +426,3 @@ The game loop checks these conditions after every input.
 
 
 
-This is an awesome next step if you want to **expand** the project with a full GUI.
-
----
-
-This version adds emojis for visual flair, clearer code examples, troubleshooting tips, and even a mock GIF placeholder. It’s designed to be engaging while maintaining technical depth! 🚀
